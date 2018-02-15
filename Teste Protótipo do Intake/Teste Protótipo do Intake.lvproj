@@ -699,12 +699,12 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Open Duble Solenoid.vi" Type="VI" URL="../../../../../Desktop/2018_Hydralisk_V2/LabVIEW_is_Under_Control.lib/Refs/Open Duble Solenoid.vi"/>
-			<Item Name="Open Encoder 4X.vi" Type="VI" URL="../../../../../Desktop/2018_Hydralisk_V2/LabVIEW_is_Under_Control.lib/Refs/Open Encoder 4X.vi"/>
-			<Item Name="Open Victor SPX.vi" Type="VI" URL="../../../../../Desktop/2018_Hydralisk_V2/LabVIEW_is_Under_Control.lib/Refs/Open Victor SPX.vi"/>
+			<Item Name="Open Duble Solenoid.vi" Type="VI" URL="../../../Hydralisk_2018_v3/LabVIEW_is_Under_Control.lib/Refs/Open Duble Solenoid.vi"/>
+			<Item Name="Open Encoder 4X.vi" Type="VI" URL="../../../Hydralisk_2018_v3/LabVIEW_is_Under_Control.lib/Refs/Open Encoder 4X.vi"/>
+			<Item Name="Open Victor SPX.vi" Type="VI" URL="../../../Hydralisk_2018_v3/LabVIEW_is_Under_Control.lib/Refs/Open Victor SPX.vi"/>
 			<Item Name="RateLimiter.vi" Type="VI" URL="../../SCV-Intake2018-master/teste_cheesy_drive_2/RateLimiter.vi"/>
 			<Item Name="Toggle.vi" Type="VI" URL="../../SCV-Intake2018-master/Toggle.vi"/>
-			<Item Name="Victor SPX Follow.vi" Type="VI" URL="../../../../../Desktop/2018_Hydralisk_V2/LabVIEW_is_Under_Control.lib/Refs/Victor SPX Follow.vi"/>
+			<Item Name="Victor SPX Follow.vi" Type="VI" URL="../../../Hydralisk_2018_v3/LabVIEW_is_Under_Control.lib/Refs/Victor SPX Follow.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
